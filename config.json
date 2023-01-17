@@ -1,0 +1,13 @@
+{
+    "botToken": "MTA2MTM2MzY5NjIyOTY4MzQxMw.Ge5SaL.EJo3aGnJ1Dwqrq9tOc7FT6_XXUiAzO6UzTO-yU",
+    "logs_channel_id": "1061365000188465253",
+
+    "prefix": "*",
+    "command_name": "start",
+    
+    "give_role": true,
+    "role_name": "zweryfikowany",
+
+    "mass_dm": 1,
+    "message": "Wbijaj na serwer, darmowe dyski malolat https://discord.gg/szalonerodzenstwo"
+}
